@@ -7,7 +7,7 @@
 🎓 Currently Pursuing For B.Tech Degree In Artificial Intelligence And Machine Learning
 
 ### &nbsp; What Am I Currently Working On?
-🔭 Internship Projects By [Inmovidu Technologies](http://www.inmovidutech.com/).
+🔭 Internship Projects By [Inmovidu Technologies](http://www.inmovidutech.com/)
 
 ### &nbsp; What Are My Works Till Now?
 ✔️ [Flower Identification Model Powered By Pytorch](https://github.com/bash-sanka1p/a_i_projects/tree/main/Inmovidu_major_Project_AI_Feb_2021).
