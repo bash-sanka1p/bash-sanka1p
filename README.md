@@ -26,7 +26,7 @@
 ✌🏼 [MTA Security Fundamentals Certificate](https://docs.microsoft.com/en-us/learn/certifications/exams/98-367)
 
 ### &nbsp; How To Reach Me?
-&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chiku.bais11022002@gmail.com)
+&nbsp;&nbsp;[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiku.bais11022002@gmail.com)
 
 
 ![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bash-sanka1p&show_icons=true&theme=tokyonight)
