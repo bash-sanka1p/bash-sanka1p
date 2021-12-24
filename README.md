@@ -23,10 +23,11 @@
 ### &nbsp; What Are My Achievements Till Now?
 - [MTA Python Intro To Programming Certificate](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/)
 - [MTA Security Fundamentals Certificate](https://docs.microsoft.com/en-us/learn/certifications/exams/98-367)
-<center>
+
 ### &nbsp; How To Reach Me?
 [![](https://img.shields.io/badge/mailme-chiku.bais11022002%40gmail.com%20-lightgrey)](chiku.bais11022002@gmail.com)
-</center>
+
+
 ![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bash-sanka1p&show_icons=true&theme=tokyonight)
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/igv7ei658z80src5vs2ac0zfo)
