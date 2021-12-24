@@ -1,9 +1,9 @@
-### Hi there 👋
-## Welcome To My Github Repo.
+<h1 align="center">Hi There, <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="wave" width 40 height=40/></h1> 
+<h1 align="center">Welcome To My Github Repo.</h1>
 
 ### &nbsp; Who Am I?
 - I'm Sankalp Singh Bais.
-- 2nd Year Student Of Shri Shankaracharya Technical Insititute Bhilai, Chhattisgarh
+- 2nd Year Student Of [Shri Shankaracharya Technical Campus](https://www.sstc.ac.in/) Bhilai, Chhattisgarh
 - Currently Pursuing For B.Tech Degree In Artificial Intelligence And Machine Learning.
 
 ### &nbsp; What Am I Currently Working On?
@@ -25,13 +25,10 @@
 - [MTA Security Fundamentals Certificate](https://docs.microsoft.com/en-us/learn/certifications/exams/98-367)
 
 ### &nbsp; How To Reach Me?
-[![](https://img.shields.io/badge/mailme-chiku.bais11022002%40gmail.com%20-lightgrey)](chiku.bais11022002@gmail.com)
+&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chiku.bais11022002@gmail.com)
 
 
 ![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bash-sanka1p&show_icons=true&theme=tokyonight)
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/igv7ei658z80src5vs2ac0zfo)
-
 
 
 
