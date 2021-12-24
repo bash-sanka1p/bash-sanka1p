@@ -2,27 +2,28 @@
 <h1 align="center">Welcome To My Github Repo.</h1>
 
 ### &nbsp; Who Am I?
-- I'm Sankalp Singh Bais.
-- 2nd Year Student Of [Shri Shankaracharya Technical Campus](https://www.sstc.ac.in/) Bhilai, Chhattisgarh
-- Currently Pursuing For B.Tech Degree In Artificial Intelligence And Machine Learning.
+💁🏼 I'm Sankalp Singh Bais\
+🏫 2nd Year Student Of [Shri Shankaracharya Technical Campus](https://www.sstc.ac.in/) Bhilai, Chhattisgarh\
+🎓 Currently Pursuing For B.Tech Degree In Artificial Intelligence And Machine Learning
 
 ### &nbsp; What Am I Currently Working On?
-- Internship Projects By [Inmovidu Technologies](http://www.inmovidutech.com/).
+🔭 Internship Projects By [Inmovidu Technologies](http://www.inmovidutech.com/).
 
 ### &nbsp; What Are My Works Till Now?
-- [Flower Identification Model Powered By Pytorch](https://github.com/bash-sanka1p/a_i_projects/tree/main/Inmovidu_major_Project_AI_Feb_2021)
+✔️ [Flower Identification Model Powered By Pytorch](https://github.com/bash-sanka1p/a_i_projects/tree/main/Inmovidu_major_Project_AI_Feb_2021).
 
 ### &nbsp; What I Know And What More I Want To Learn?
-
-&nbsp;&nbsp;<p align="left"> <a href="https://www.w3schools.in/c-tutorial/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.w3schools.in/c-tutorial/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
 ### &nbsp; What Are My Ambitions?
-- Crack [Google Tensorflow Developer Certificate Exam](https://www.tensorflow.org/certificate).
-- Work At [OpenAI](https://openai.com/) or [DeepMind](https://deepmind.com/).
+🎯 Crack [Google Tensorflow Developer Certificate Exam](https://www.tensorflow.org/certificate)\
+🎯 Work At [OpenAI](https://openai.com/) or [DeepMind](https://deepmind.com/)
 
 ### &nbsp; What Are My Achievements Till Now?
-- [MTA Python Intro To Programming Certificate](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/)
-- [MTA Security Fundamentals Certificate](https://docs.microsoft.com/en-us/learn/certifications/exams/98-367)
+✌🏼 [MTA Python Intro To Programming Certificate](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/)\
+✌🏼 [MTA Security Fundamentals Certificate](https://docs.microsoft.com/en-us/learn/certifications/exams/98-367)
 
 ### &nbsp; How To Reach Me?
 &nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chiku.bais11022002@gmail.com)
