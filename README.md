@@ -19,7 +19,7 @@
 
 ### &nbsp; What Are My Ambitions?
 🎯 Crack [Google Tensorflow Developer Certificate Exam](https://www.tensorflow.org/certificate)\
-🎯 Work At [OpenAI](https://openai.com/) or [DeepMind](https://deepmind.com/)
+🎯 Join People Working At [OpenAI](https://openai.com/) or [DeepMind](https://deepmind.com/)
 
 ### &nbsp; What Are My Achievements Till Now?
 ✌🏼 [MTA Python Intro To Programming Certificate](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/)\
