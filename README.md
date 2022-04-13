@@ -11,8 +11,8 @@
 🔭 Internship Projects By [1stop.ai](https://www.1stop.ai/)
 
 ### &nbsp; What Are My Works Till Now?
-✔️ [Flower Identification Model Powered By Pytorch](https://github.com/bash-sanka1p/a_i_projects/tree/main/Inmovidu_major_Project_AI_Feb_2021).
-✔️ [Gestur Volume Control (Windows)](https://github.com/bash-sanka1p/Gesture-Volume-Control).
+✔️ [Flower Identification Model Powered By Pytorch](https://github.com/bash-sanka1p/a_i_projects/tree/main/Inmovidu_major_Project_AI_Feb_2021)\
+✔️ [Gesture Volume Control (Windows) ](https://github.com/bash-sanka1p/Gesture-Volume-Control).
 
 ### &nbsp; What I Know And What More I Want To Learn?
 <p align="left">
