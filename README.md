@@ -27,8 +27,7 @@
 
 ### &nbsp; How To Reach Me?
 &nbsp;&nbsp;[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiku.bais11022002@gmail.com)
-<a href="https://linkedin.com/in/bash-sanka1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bash-sanka1p" height="30" width="40" /></a>
-
+&nbsp;&nbsp;[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bash-sanka1p)
 
 ![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bash-sanka1p&show_icons=true&theme=tokyonight)
 
