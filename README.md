@@ -6,8 +6,9 @@
 🏫 2nd Year Student Of [Shri Shankaracharya Technical Campus](https://www.sstc.ac.in/) Bhilai, Chhattisgarh\
 🎓 Currently Pursuing For B.Tech Degree In Artificial Intelligence And Machine Learning
 
-### &nbsp; What Am I Currently Working On?
-🔭 Internship Projects By [1stop.ai](https://www.1stop.ai/)
+<!-- ### &nbsp; What Am I Currently Working On?
+🔭 
+-->
 
 ### &nbsp; What Are My Works Till Now?
 ✔️ [Flower Identification Model Powered By Pytorch](https://github.com/bash-sanka1p/a_i_projects/tree/main/Inmovidu_major_Project_AI_Feb_2021)\
